@@ -47,7 +47,7 @@ In review, what's the difference between static and dynamic routes?
 ## Code Implementation
 
 In order to setup a dynamic request feature, we will start by writing a test to
-verify that the page exists:
+verify thaat the page exists:
 
 ```ruby
 # spec/features/post_spec.rb
